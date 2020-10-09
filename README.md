@@ -1,5 +1,3 @@
-Serves
-
 The server used in conjunction with my file-manager client project (https://github.com/claudiut/file-manager).
 
 ## TODO
